@@ -1,0 +1,338 @@
+,HomeTeam,AwayTeam,Year,HomeGoals,AwayGoals,TotalGoals
+0,France,Yugoslavia,1960,4,5,9
+1,Czechoslovakia,Soviet Union,1960,0,3,3
+2,Czechoslovakia,France,1960,2,0,2
+3,Soviet Union,Yugoslavia,1960,2,1,3
+4,Spain,Hungary,1964,2,1,3
+5,Denmark,Soviet Union,1964,0,3,3
+6,Hungary,Denmark,1964,3,1,4
+7,Spain,Soviet Union,1964,2,1,3
+8,Italy,Soviet Union,1968,0,0,0
+9,Yugoslavia,England,1968,1,0,1
+10,England,Soviet Union,1968,2,0,2
+11,Italy,Yugoslavia,1968,1,1,2
+12,Italy,Yugoslavia,1968,2,0,2
+13,Hungary,Soviet Union,1972,0,1,1
+14,Belgium,West Germany,1972,1,2,3
+15,Hungary,Belgium,1972,1,2,3
+16,West Germany,Soviet Union,1972,3,0,3
+17,Czechoslovakia,Netherlands,1976,3,1,4
+18,Yugoslavia,West Germany,1976,2,4,6
+19,Netherlands,Yugoslavia,1976,3,2,5
+20,Czechoslovakia,West Germany,1976,2,2,4
+21,Czechoslovakia,West Germany,1980,0,1,1
+22,Netherlands,Greece,1980,1,0,1
+23,West Germany,Netherlands,1980,3,2,5
+24,Greece,Czechoslovakia,1980,1,3,4
+25,Netherlands,Czechoslovakia,1980,1,1,2
+26,Greece,West Germany,1980,0,0,0
+27,Belgium,England,1980,1,1,2
+28,Spain,Italy,1980,0,0,0
+29,Belgium,Spain,1980,2,1,3
+30,England,Italy,1980,0,1,1
+31,Spain,England,1980,1,2,3
+32,Italy,Belgium,1980,0,0,0
+33,Czechoslovakia,Italy,1980,1,1,2
+34,Belgium,West Germany,1980,1,2,3
+35,France,Denmark,1984,1,0,1
+36,Belgium,Yugoslavia,1984,2,0,2
+37,France,Belgium,1984,5,0,5
+38,Denmark,Yugoslavia,1984,5,0,5
+39,France,Yugoslavia,1984,3,2,5
+40,Denmark,Belgium,1984,3,2,5
+41,West Germany,Portugal,1984,0,0,0
+42,Romania,Spain,1984,1,1,2
+43,West Germany,Romania,1984,2,1,3
+44,Portugal,Spain,1984,1,1,2
+45,West Germany,Spain,1984,0,1,1
+46,Portugal,Romania,1984,1,0,1
+47,France,Portugal,1984,3,2,5
+48,Denmark,Spain,1984,1,1,2
+49,France,Spain,1984,2,0,2
+50,West Germany,Italy,1988,1,1,2
+51,Denmark,Spain,1988,2,3,5
+52,West Germany,Denmark,1988,2,0,2
+53,Italy,Spain,1988,1,0,1
+54,West Germany,Spain,1988,2,0,2
+55,Italy,Denmark,1988,2,0,2
+56,England,Republic of Ireland,1988,0,1,1
+57,Netherlands,Soviet Union,1988,0,1,1
+58,England,Netherlands,1988,1,3,4
+59,Republic of Ireland,Soviet Union,1988,1,1,2
+60,England,Soviet Union,1988,1,3,4
+61,Republic of Ireland,Netherlands,1988,0,1,1
+62,West Germany,Netherlands,1988,1,2,3
+63,Soviet Union,Italy,1988,2,0,2
+64,Soviet Union,Netherlands,1988,0,2,2
+65,Sweden,France,1992,1,1,2
+66,Denmark,England,1992,0,0,0
+67,France,England,1992,0,0,0
+68,Sweden,Denmark,1992,1,0,1
+69,Sweden,England,1992,2,1,3
+70,France,Denmark,1992,1,2,3
+71,Netherlands,Scotland,1992,1,0,1
+72,CIS,Germany,1992,1,1,2
+73,Scotland,Germany,1992,0,2,2
+74,Netherlands,CIS,1992,0,0,0
+75,Netherlands,Germany,1992,3,1,4
+76,Scotland,CIS,1992,3,0,3
+77,Sweden,Germany,1992,2,3,5
+78,Netherlands,Denmark,1992,2,2,4
+79,Denmark,Germany,1992,2,0,2
+80,England,Switzerland,1996,1,1,2
+81,Netherlands,Scotland,1996,0,0,0
+82,Switzerland,Netherlands,1996,0,2,2
+83,Scotland,England,1996,0,2,2
+84,Scotland,Switzerland,1996,1,0,1
+85,Netherlands,England,1996,1,4,5
+86,Spain,Bulgaria,1996,1,1,2
+87,Romania,France,1996,0,1,1
+88,Bulgaria,Romania,1996,1,0,1
+89,France,Spain,1996,1,1,2
+90,France,Bulgaria,1996,3,1,4
+91,Romania,Spain,1996,1,2,3
+92,Germany,Czech Republic,1996,2,0,2
+93,Italy,Russia,1996,2,1,3
+94,Czech Republic,Italy,1996,2,1,3
+95,Russia,Germany,1996,0,3,3
+96,Russia,Czech Republic,1996,3,3,6
+97,Italy,Germany,1996,0,0,0
+98,Denmark,Portugal,1996,1,1,2
+99,Turkey,Croatia,1996,0,1,1
+100,Portugal,Turkey,1996,1,0,1
+101,Croatia,Denmark,1996,3,0,3
+102,Croatia,Portugal,1996,0,3,3
+103,Turkey,Denmark,1996,0,3,3
+104,Spain,England,1996,0,0,0
+105,France,Netherlands,1996,0,0,0
+106,Germany,Croatia,1996,2,1,3
+107,Czech Republic,Portugal,1996,1,0,1
+108,France,Czech Republic,1996,0,0,0
+109,Germany,England,1996,1,1,2
+110,Czech Republic,Germany,1996,1,2,3
+111,Germany,Romania,2000,1,1,2
+112,Portugal,England,2000,3,2,5
+113,Romania,Portugal,2000,0,1,1
+114,England,Germany,2000,1,0,1
+115,England,Romania,2000,2,3,5
+116,Portugal,Germany,2000,3,0,3
+117,Belgium,Sweden,2000,2,1,3
+118,Turkey,Italy,2000,1,2,3
+119,Italy,Belgium,2000,2,0,2
+120,Sweden,Turkey,2000,0,0,0
+121,Turkey,Belgium,2000,2,0,2
+122,Italy,Sweden,2000,2,1,3
+123,Spain,Norway,2000,0,1,1
+124,FR Yugoslavia,Slovenia,2000,3,3,6
+125,Slovenia,Spain,2000,1,2,3
+126,Norway,FR Yugoslavia,2000,0,1,1
+127,FR Yugoslavia,Spain,2000,3,4,7
+128,Slovenia,Norway,2000,0,0,0
+129,France,Denmark,2000,3,0,3
+130,Netherlands,Czech Republic,2000,1,0,1
+131,Czech Republic,France,2000,1,2,3
+132,Denmark,Netherlands,2000,0,3,3
+133,Denmark,Czech Republic,2000,0,2,2
+134,France,Netherlands,2000,2,3,5
+135,Portugal,Turkey,2000,2,0,2
+136,Italy,Romania,2000,2,0,2
+137,Netherlands,FR Yugoslavia,2000,6,1,7
+138,Spain,France,2000,1,2,3
+139,France,Portugal,2000,2,1,3
+140,Italy,Netherlands,2000,0,0,0
+141,France,Italy,2000,2,1,3
+142,Portugal,Greece,2004,1,2,3
+143,Spain,Russia,2004,1,0,1
+144,Greece,Spain,2004,1,1,2
+145,Russia,Portugal,2004,0,2,2
+146,Spain,Portugal,2004,0,1,1
+147,Russia,Greece,2004,2,1,3
+148,Switzerland,Croatia,2004,0,0,0
+149,France,England,2004,2,1,3
+150,England,Switzerland,2004,3,0,3
+151,Croatia,France,2004,2,2,4
+152,Croatia,England,2004,2,4,6
+153,Switzerland,France,2004,1,3,4
+154,Denmark,Italy,2004,0,0,0
+155,Sweden,Bulgaria,2004,5,0,5
+156,Bulgaria,Denmark,2004,0,2,2
+157,Italy,Sweden,2004,1,1,2
+158,Italy,Bulgaria,2004,2,1,3
+159,Denmark,Sweden,2004,2,2,4
+160,Czech Republic,Latvia,2004,2,1,3
+161,Germany,Netherlands,2004,1,1,2
+162,Latvia,Germany,2004,0,0,0
+163,Netherlands,Czech Republic,2004,2,3,5
+164,Netherlands,Latvia,2004,3,0,3
+165,Germany,Czech Republic,2004,1,2,3
+166,Portugal,England,2004,2,2,4
+167,France,Greece,2004,0,1,1
+168,Sweden,Netherlands,2004,0,0,0
+169,Czech Republic,Denmark,2004,3,0,3
+170,Portugal,Netherlands,2004,2,1,3
+171,Greece,Czech Republic,2004,1,0,1
+172,Portugal,Greece,2004,0,1,1
+173,Switzerland,Czech Republic,2008,0,1,1
+174,Portugal,Turkey,2008,2,0,2
+175,Czech Republic,Portugal,2008,1,3,4
+176,Switzerland,Turkey,2008,1,2,3
+177,Switzerland,Portugal,2008,2,0,2
+178,Turkey,Czech Republic,2008,3,2,5
+179,Austria,Croatia,2008,0,1,1
+180,Germany,Poland,2008,2,0,2
+181,Croatia,Germany,2008,2,1,3
+182,Austria,Poland,2008,1,1,2
+183,Poland,Croatia,2008,0,1,1
+184,Austria,Germany,2008,0,1,1
+185,Romania,France,2008,0,0,0
+186,Netherlands,Italy,2008,3,0,3
+187,Italy,Romania,2008,1,1,2
+188,Netherlands,France,2008,4,1,5
+189,Netherlands,Romania,2008,2,0,2
+190,France,Italy,2008,0,2,2
+191,Spain,Russia,2008,4,1,5
+192,Greece,Sweden,2008,0,2,2
+193,Sweden,Spain,2008,1,2,3
+194,Greece,Russia,2008,0,1,1
+195,Greece,Spain,2008,1,2,3
+196,Russia,Sweden,2008,2,0,2
+197,Portugal,Germany,2008,2,3,5
+198,Croatia,Turkey,2008,1,1,2
+199,Netherlands,Russia,2008,1,3,4
+200,Spain,Italy,2008,0,0,0
+201,Germany,Turkey,2008,3,2,5
+202,Russia,Spain,2008,0,3,3
+203,Germany,Spain,2008,0,1,1
+204,Poland,Greece,2012,1,1,2
+205,Russia,Czech Republic,2012,4,1,5
+206,Greece,Czech Republic,2012,1,2,3
+207,Poland,Russia,2012,1,1,2
+208,Czech Republic,Poland,2012,1,0,1
+209,Greece,Russia,2012,1,0,1
+210,Netherlands,Denmark,2012,0,1,1
+211,Germany,Portugal,2012,1,0,1
+212,Denmark,Portugal,2012,2,3,5
+213,Netherlands,Germany,2012,1,2,3
+214,Portugal,Netherlands,2012,2,1,3
+215,Denmark,Germany,2012,1,2,3
+216,Spain,Italy,2012,1,1,2
+217,Republic of Ireland,Croatia,2012,1,3,4
+218,Italy,Croatia,2012,1,1,2
+219,Spain,Republic of Ireland,2012,4,0,4
+220,Croatia,Spain,2012,0,1,1
+221,Italy,Republic of Ireland,2012,2,0,2
+222,France,England,2012,1,1,2
+223,Ukraine,Sweden,2012,2,1,3
+224,Ukraine,France,2012,0,2,2
+225,Sweden,England,2012,2,3,5
+226,England,Ukraine,2012,1,0,1
+227,Sweden,France,2012,2,0,2
+228,Czech Republic,Portugal,2012,0,1,1
+229,Germany,Greece,2012,4,2,6
+230,Spain,France,2012,2,0,2
+231,England,Italy,2012,0,0,0
+232,Portugal,Spain,2012,0,0,0
+233,Germany,Italy,2012,1,2,3
+234,Spain,Italy,2012,4,0,4
+235,France,Romania,2016,2,1,3
+236,Albania,Switzerland,2016,0,1,1
+237,Romania,Switzerland,2016,1,1,2
+238,France,Albania,2016,2,0,2
+239,Romania,Albania,2016,0,1,1
+240,Switzerland,France,2016,0,0,0
+241,Wales,Slovakia,2016,2,1,3
+242,England,Russia,2016,1,1,2
+243,Russia,Slovakia,2016,1,2,3
+244,England,Wales,2016,2,1,3
+245,Russia,Wales,2016,0,3,3
+246,Slovakia,England,2016,0,0,0
+247,Poland,Northern Ireland,2016,1,0,1
+248,Germany,Ukraine,2016,2,0,2
+249,Ukraine,Northern Ireland,2016,0,2,2
+250,Germany,Poland,2016,0,0,0
+251,Ukraine,Poland,2016,0,1,1
+252,Northern Ireland,Germany,2016,0,1,1
+253,Turkey,Croatia,2016,0,1,1
+254,Spain,Czech Republic,2016,1,0,1
+255,Czech Republic,Croatia,2016,2,2,4
+256,Spain,Turkey,2016,3,0,3
+257,Czech Republic,Turkey,2016,0,2,2
+258,Croatia,Spain,2016,2,1,3
+259,Republic of Ireland,Sweden,2016,1,1,2
+260,Belgium,Italy,2016,0,2,2
+261,Italy,Sweden,2016,1,0,1
+262,Belgium,Republic of Ireland,2016,3,0,3
+263,Italy,Republic of Ireland,2016,0,1,1
+264,Sweden,Belgium,2016,0,1,1
+265,Austria,Hungary,2016,0,2,2
+266,Portugal,Iceland,2016,1,1,2
+267,Iceland,Hungary,2016,1,1,2
+268,Portugal,Austria,2016,0,0,0
+269,Iceland,Austria,2016,2,1,3
+270,Hungary,Portugal,2016,3,3,6
+271,Switzerland,Poland,2016,1,1,2
+272,Wales,Northern Ireland,2016,1,0,1
+273,Croatia,Portugal,2016,0,1,1
+274,France,Republic of Ireland,2016,2,1,3
+275,Germany,Slovakia,2016,3,0,3
+276,Hungary,Belgium,2016,0,4,4
+277,Italy,Spain,2016,2,0,2
+278,England,Iceland,2016,1,2,3
+279,Poland,Portugal,2016,1,1,2
+280,Wales,Belgium,2016,3,1,4
+281,Germany,Italy,2016,1,1,2
+282,France,Iceland,2016,5,2,7
+283,Portugal,Wales,2016,2,0,2
+284,Germany,France,2016,0,2,2
+285,Portugal,France,2016,1,0,1
+286,Turkey,Italy,2020,0,3,3
+287,Wales,Switzerland,2020,1,1,2
+288,Turkey,Wales,2020,0,2,2
+289,Italy,Switzerland,2020,3,0,3
+290,Switzerland,Turkey,2020,3,1,4
+291,Italy,Wales,2020,1,0,1
+292,Denmark,Finland,2020,0,1,1
+293,Belgium,Russia,2020,3,0,3
+294,Finland,Russia,2020,0,1,1
+295,Denmark,Belgium,2020,1,2,3
+296,Russia,Denmark,2020,1,4,5
+297,Finland,Belgium,2020,0,2,2
+298,Austria,North Macedonia,2020,3,1,4
+299,Netherlands,Ukraine,2020,3,2,5
+300,Ukraine,North Macedonia,2020,2,1,3
+301,Netherlands,Austria,2020,2,0,2
+302,North Macedonia,Netherlands,2020,0,3,3
+303,Ukraine,Austria,2020,0,1,1
+304,England,Croatia,2020,1,0,1
+305,Scotland,Czech Republic,2020,0,2,2
+306,Croatia,Czech Republic,2020,1,1,2
+307,England,Scotland,2020,0,0,0
+308,Croatia,Scotland,2020,3,1,4
+309,Czech Republic,England,2020,0,1,1
+310,Poland,Slovakia,2020,1,2,3
+311,Spain,Sweden,2020,0,0,0
+312,Sweden,Slovakia,2020,1,0,1
+313,Spain,Poland,2020,1,1,2
+314,Slovakia,Spain,2020,0,5,5
+315,Sweden,Poland,2020,3,2,5
+316,Hungary,Portugal,2020,0,3,3
+317,France,Germany,2020,1,0,1
+318,Hungary,France,2020,1,1,2
+319,Portugal,Germany,2020,2,4,6
+320,Portugal,France,2020,2,2,4
+321,Germany,Hungary,2020,2,2,4
+322,Wales,Denmark,2020,0,4,4
+323,Italy,Austria,2020,2,1,3
+324,Netherlands,Czech Republic,2020,0,2,2
+325,Belgium,Portugal,2020,1,0,1
+326,Croatia,Spain,2020,3,5,8
+327,France,Switzerland,2020,3,3,6
+328,England,Germany,2020,2,0,2
+329,Sweden,Ukraine,2020,1,2,3
+330,Switzerland,Spain,2020,1,1,2
+331,Belgium,Italy,2020,1,2,3
+332,Czech Republic,Denmark,2020,1,2,3
+333,Ukraine,England,2020,0,4,4
+334,Italy,Spain,2020,1,1,2
+335,England,Denmark,2020,2,1,3
+336,Italy,England,2020,1,1,2

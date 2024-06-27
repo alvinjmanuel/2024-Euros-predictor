@@ -1,0 +1,52 @@
+,home,away,outcome
+0,Germany, Scotland,5–1
+1,Hungary,  Switzerland,1–3
+2,Germany, Hungary,2–0
+3,Scotland,  Switzerland,1–1
+4,Switzerland, Germany,1–1
+5,Scotland, Hungary,0–1
+6,Spain, Croatia,3–0
+7,Italy, Albania,2–1
+8,Croatia, Albania,2–2
+9,Spain, Italy,1–0
+10,Albania, Spain,0–1
+11,Croatia, Italy,1–1
+12,Slovenia, Denmark,1–1
+13,Serbia, England,0–1
+14,Slovenia, Serbia,1–1
+15,Denmark, England,1–1
+16,England, Slovenia,0–0
+17,Denmark, Serbia,0–0
+18,Poland, Netherlands,1–2
+19,Austria, France,0–1
+20,Poland, Austria,1–3
+21,Netherlands, France,0–0
+22,Netherlands, Austria,2–3
+23,France, Poland,1–1
+24,Romania, Ukraine,3–0
+25,Belgium, Slovakia,0–1
+26,Slovakia, Ukraine,1–2
+27,Belgium, Romania,2–0
+28,Slovakia, Romania,1–1
+29,Ukraine, Belgium,0–0
+30,Turkey, Georgia,3–1
+31,Portugal, Czech Republic,2–1
+32,Georgia, Czech Republic,1–1
+33,Turkey, Portugal,0–3
+34,Georgia, Portugal,2–0
+35,Czech Republic, Turkey,1–2
+36,Switzerland, Italy,Match 38
+37,Germany, Denmark,Match 37
+38,England, Slovakia,Match 40
+39,Spain, Georgia,Match 39
+40,France, Belgium,Match 42
+41,Portugal, Slovenia,Match 41
+42,Romania, Netherlands,Match 43
+43,Austria, Turkey,Match 44
+44,Winner Match 39,Winner Match 37,Match 45
+45,Winner Match 41,Winner Match 42,Match 46
+46,Winner Match 40,Winner Match 38,Match 48
+47,Winner Match 43,Winner Match 44,Match 47
+48,Winner Match 45,Winner Match 46,Match 49
+49,Winner Match 47,Winner Match 48,Match 50
+50,Winner Match 49,Winner Match 50,Match 51

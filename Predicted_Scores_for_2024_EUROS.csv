@@ -1,0 +1,52 @@
+,Team 1,Team 2,Outcome
+0,Germany,Scotland,Germany
+1,Germany,Hungary,Germany
+2,Germany,Switzerland,Germany
+3,Scotland,Hungary,Draw
+4,Scotland,Switzerland,Switzerland
+5,Hungary,Switzerland,Hungary
+6,Spain,Croatia,Spain
+7,Spain,Italy,Draw
+8,Spain,Albania,Spain
+9,Croatia,Italy,Draw
+10,Croatia,Albania,Croatia
+11,Italy,Albania,Italy
+12,Slovenia,Denmark,Denmark
+13,Slovenia,Serbia,Draw
+14,Slovenia,England,Draw
+15,Denmark,Serbia,Draw
+16,Denmark,England,Draw
+17,Serbia,England,Draw
+18,Poland,Netherlands,Netherlands
+19,Poland,Austria,Poland
+20,Poland,France,France
+21,Netherlands,Austria,Netherlands
+22,Netherlands,France,Netherlands
+23,Austria,France,France
+24,Belgium,Slovakia,Belgium
+25,Belgium,Romania,Belgium
+26,Belgium,Ukraine,Belgium
+27,Slovakia,Romania,Draw
+28,Slovakia,Ukraine,Ukraine
+29,Romania,Ukraine,Romania
+30,Turkey,Georgia,Draw
+31,Turkey,Portugal,Portugal
+32,Turkey,Czech Republic,Draw
+33,Georgia,Portugal,Draw
+34,Georgia,Czech Republic,Draw
+35,Portugal,Czech Republic,Portugal
+36,Spain,Croatia,Spain
+37,Germany,Serbia,Germany
+38,Portugal,England,Portugal
+39,France,Romania,France
+40,Belgium,Poland,Belgium
+41,Netherlands,Georgia,Netherlands
+42,Denmark,Switzerland,Denmark
+43,Hungary,Italy,Italy
+44,Spain,Germany,Spain
+45,Portugal,France,Portugal
+46,Belgium,Netherlands,Netherlands
+47,Denmark,Italy,Italy
+48,Spain,Portugal,Spain
+49,Netherlands,Italy,Italy
+50,Spain,Italy,Italy
